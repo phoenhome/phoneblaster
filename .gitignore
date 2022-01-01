@@ -1,0 +1,22 @@
+# .gitignore
+
+# Mac OS X
+.DS_Store
+
+# Jetbrains IDE
+.idea/
+
+# Python VirtualEnv
+venv/
+
+# Python DotEnv
+.env
+
+# Call Logs Directory
+logs/
+
+# Recordings Directory
+recordings/
+
+# Temporary Directory
+tmp/

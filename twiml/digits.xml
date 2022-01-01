@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause length="3"/>
+    <Play digits="1"/>
+    <Pause length="2"/>
+    <Play digits="3"/>
+</Response>

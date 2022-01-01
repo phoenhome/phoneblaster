@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Pause length="4"/>
+    <Say voice="alice">Hello</Say>
+    <Pause length="4"/>
+    <Say voice="man">Hello, can you hear me?</Say>
+    <Pause length="4"/>
+    <Say voice="woman">I think you are on mute!</Say>
+    <Pause length="5"/>
+</Response>
